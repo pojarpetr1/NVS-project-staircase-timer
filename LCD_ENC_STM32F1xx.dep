@@ -1,0 +1,5 @@
+Dependencies for Project 'LCD_ENC', Target 'STM32F1xx': (DO NOT MODIFY !)
+F (.\STM32F10x.s)(0x68F8AA1A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x--list .\stm32f10x.lst --xref -o .\stm32f10x.o --depend .\stm32f10x.d)
+F (.\LCD_ENC.asm)(0x691C50F5)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x--list .\lcd_enc.lst --xref -o .\lcd_enc.o --depend .\lcd_enc.d)
+I (INI.s)(0x6918CBF1)
+F (.\ReadMe.txt)(0x68DB9347)()

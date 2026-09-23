@@ -1,0 +1,15 @@
+ExtDll.iex
+LCD_ENC.axf
+LCD_ENC.build_log.htm
+LCD_ENC.htm
+LCD_ENC.lnp
+LCD_ENC.map
+LCD_ENC.uvgui.pojar
+LCD_ENC.uvgui_pojar.bak
+LCD_ENC_uvopt.bak
+STM32F10x.d
+STM32F10x.lst
+lcd_enc.d
+lcd_enc.lst
+lcd_enc.o
+stm32f10x.o
